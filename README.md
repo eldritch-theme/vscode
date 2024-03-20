@@ -1,9 +1,12 @@
+<p align="center">
+<img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/logo/logo.png" width=100>
+</p>
+<p>
+Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With tones from the dark abyss and an emphasis on green and blue, it caters to those who appreciate the darker side of life.
+</p>
+
 ### Showcase
 <img src="https://raw.githubusercontent.com/eldritch-theme/eldritch-vscode/master/screenshot.png" alt="Screenshot"/><br/>
-
-Eldritch is a community-driven dark theme that draws inspiration from the GMK Terror Below keycap set. The theme is meant for the Lovecraftian horror fans and the people who enjoy the darker side of life.
-
-Main Theme repo can be found at https://github.com/eldritch-theme/eldritch
 
 ### Installation
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
