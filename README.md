@@ -9,7 +9,7 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Showcase
 
-<img src="https://raw.github.com/eldritch-theme/vscode/master/screenshot.png" alt="Screenshot"/><br/>
+<img src="https://github.com/eldritch-theme/vscode/raw/master/screenshot.png" alt="Screenshot"/><br/>
 
 ### Installation
 
