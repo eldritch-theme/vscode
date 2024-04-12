@@ -9,7 +9,7 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Showcase
 
-<img src="screenshot.png" alt="Screenshot"/><br/>
+<img src="https://raw.github.com/eldritch-theme/vscode/master/screenshot.png" alt="Screenshot"/><br/>
 
 ### Installation
 
@@ -20,4 +20,3 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 1. Download the `eldritch-x.x.x.vsix`
 2. Run `code --install-extension eldritch-x.x.x.vsix` or from VSCode select `Install from VSIX...` from the command palette and select the vsix
-
