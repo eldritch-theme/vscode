@@ -12,7 +12,6 @@ jobs:
         with:
           node-version: 20
       - uses: phips28/gh-action-bump-version@v11.0.4
-        with:
       - run: npm ci
       - name: Publish to Visual Studio Marketplace
         uses: HaaLeo/publish-vscode-extension@v1
