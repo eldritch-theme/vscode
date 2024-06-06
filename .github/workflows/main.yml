@@ -11,7 +11,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - uses: geemanjs/conventional-changelog-npm-publish@1.0.0
+      - uses: g33kio/npm-version-bump@v1.0.5
+        with:
+          # Determines if this last commit should be tagged with the npm version.
+          tag-version: true
       - run: npm ci
       - name: Publish to Visual Studio Marketplace
         uses: HaaLeo/publish-vscode-extension@v1
