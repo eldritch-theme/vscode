@@ -11,12 +11,9 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 <img src="https://github.com/eldritch-theme/vscode/raw/master/screenshot.png" alt="Screenshot"/><br/>
 
+[![Deploy Extension](https://github.com/eldritch-theme/vscode/actions/workflows/main.yml/badge.svg)](https://github.com/eldritch-theme/vscode/actions/workflows/main.yml)
+
 ### Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
 2. Search for `Eldritch`
-
-#### How to install from source
-
-1. Download the `eldritch-x.x.x.vsix`
-2. Run `code --install-extension eldritch-x.x.x.vsix` or from VSCode select `Install from VSIX...` from the command palette and select the vsix
