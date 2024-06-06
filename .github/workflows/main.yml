@@ -11,6 +11,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - uses: opspresso/action-version@v0.2.5
       - run: npm ci
       - name: Publish to Visual Studio Marketplace
         uses: HaaLeo/publish-vscode-extension@v1
