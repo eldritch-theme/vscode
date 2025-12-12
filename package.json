@@ -21,6 +21,11 @@
         "label": "Eldritch",
         "uiTheme": "vs-dark",
         "path": "./themes/eldritch.json"
+      },
+      {
+        "label": "Eldritch Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eldritch-dark.json"
       }
     ]
   },
